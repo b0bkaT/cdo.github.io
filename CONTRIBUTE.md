@@ -108,6 +108,7 @@ In event of the latter, delete the remainder of the list.
 - [ ] [Implementation](#TODO-link-to-resolved-PR) merged into `develop`
 - [ ] Milestone linked
 - [ ] Documentation logged in pending release page
+- [ ] Ensure Ontology documents are aligned (e.g. UCO Design Doc., CASE Design Doc., etc.)
 ```
 
 
